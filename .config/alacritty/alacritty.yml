@@ -1,0 +1,39 @@
+env:
+  TERM: xterm-256color
+  LANG: en_US.UTF-8
+  LC_CTYPE: en_US.UTF-8
+selection:
+  save_to_clipboard: true
+window:
+  padding:
+    x: 20
+    y: 20
+  dynamic_padding: true    
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+    style: Regular
+  size: 11
+  use_thin_strokes: true
+colors:
+  primary:
+    background: '#1e222a'
+    foreground: "#CBCCC6"
+  normal:
+    black: "#1e222a"
+    red: "#ff4c6d"
+    green: "#8ad770"
+    yellow: "#fe9546"
+    blue: "#4892fb"
+    magenta: "#9f7ce9"
+    cyan: "#7ed4b7"
+    white: "#C7C7C7"
+  bright:
+    black: "#606060"
+    red: "#f07b85"
+    green: "#c3e579"
+    yellow: "#ffd580"
+    blue: "#7cb8f5"
+    magenta: "#c695c6"
+    cyan: "#9ee9d0"
+    white: "#FFFFFF"
